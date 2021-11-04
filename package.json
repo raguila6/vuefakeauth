@@ -7,8 +7,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "remove": "^0.1.5",
     "vue": "^3.2.16",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.0.12",
+    "vue-undraw": "^2.0.13"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.3",

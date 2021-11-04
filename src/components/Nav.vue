@@ -16,7 +16,7 @@
                     </li>
 
                     <li class="px-8 py-6 bg-green-900 hover:cursor-pointer hover:bg-yellow-200 hover:text-indigo-600">
-                    <router-link to="./Hello">Hello</router-link>
+                    <router-link to="./Login">Login</router-link>
                     </li>
                 </ul>
             </nav>

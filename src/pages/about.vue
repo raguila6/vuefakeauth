@@ -1,3 +1,11 @@
+<script setup>
+
+</script>
+
 <template>
-    <h1>About</h1>
+    
+    <div class="flex flex-col items-center h-screen-nonav ">
+        <h1 class="text-xl font-medium">About this...</h1>
+    <img src="../assets/aboutpg.png"  alt="HelloBG">
+    </div>
 </template>

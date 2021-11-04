@@ -2,7 +2,7 @@
 import {createRouter, createWebHistory} from "vue-router";
 
 import About from "./pages/about.vue";
-import Hello from "./pages/hello.vue";
+import Login from "./pages/login.vue";
 import Index from "./pages/index.vue";
 import notFound from "./pages/404.vue";
 
@@ -19,9 +19,9 @@ const routes = [
         component: About,
     },
     {
-        path: "/hello",
-        name: "Hello",
-        component: Hello,
+        path: "/login",
+        name: "Login",
+        component: Login,
     },
     {
         path: "/:pathMatch(.*)*",
